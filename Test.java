@@ -1,5 +1,3 @@
-package twentyTwo_jan;
-
 import java.util.Scanner;
 
 public class Test {

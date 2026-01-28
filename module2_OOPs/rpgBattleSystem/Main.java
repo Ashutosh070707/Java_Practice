@@ -1,4 +1,4 @@
-package twentyTwo_jan.module2_OOPs.rpgBattleSystem;
+package module2_OOPs.rpgBattleSystem;
 
 public class Main {
     public static void main(String[] args) {

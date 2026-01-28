@@ -1,4 +1,4 @@
-package twentyTwo_jan.module2_OOPs.rpgBattleSystem;
+package module2_OOPs.rpgBattleSystem;
 
 public class Warrior extends GameCharacter{
     public Warrior(String name, int health, int level, int mana) {

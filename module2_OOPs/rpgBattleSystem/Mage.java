@@ -1,4 +1,4 @@
-package twentyTwo_jan.module2_OOPs.rpgBattleSystem;
+package module2_OOPs.rpgBattleSystem;
 
 public class Mage extends GameCharacter{
     public Mage(String name, int health, int level, int mana) {

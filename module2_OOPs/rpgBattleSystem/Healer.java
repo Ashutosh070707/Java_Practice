@@ -1,4 +1,4 @@
-package twentyTwo_jan.module2_OOPs.rpgBattleSystem;
+package module2_OOPs.rpgBattleSystem;
 
 public class Healer extends GameCharacter {
     public Healer(String name, int health, int level, int mana) {
